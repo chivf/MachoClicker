@@ -1,5 +1,11 @@
 # 🖱️ MachoClicker
 
+<p align="center">
+  <a href="https://github.com/chivf/MachoClicker/releases/latest">
+    <img src="https://img.shields.github.io/badge/Download-Latest_Release-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Download MachoClicker" />
+  </a>
+</p>
+
 MachoClicker is a modern, high-performance, and feature-rich desktop automation tool built with **Electron, React, and Vite**. Designed with a sleek dark-themed UI, glassmorphism accents, and rich micro-animations, it provides professional-grade clicker and macro sequencing tools for gamers, developers, and power users.
 
 <p align="center">
