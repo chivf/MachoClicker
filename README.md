@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/chivf/MachoClicker/releases/latest">
-    <img src="https://img.shields.github.io/badge/Download-Latest_Release-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Download MachoClicker" />
+    <img src="public/download_btn.png" alt="Download MachoClicker" width="600" />
   </a>
 </p>
 
