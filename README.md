@@ -16,6 +16,11 @@ MachoClicker is a modern, high-performance, and feature-rich desktop automation 
 - **Interval Control:** Millisecond-level click speed customization.
 - **Coordinate Picker:** Target specific screen coordinates or follow the mouse cursor dynamically.
 - **Presets:** Save and restore customized click configurations on the fly.
+- **Steady High CPS:** Maintains highly consistent and steady click speeds. *(500+ CPS engine optimization coming soon!)*
+
+<p align="center">
+  <img src="public/cpspreview.png" alt="CPS Test Result Screenshot" width="500" />
+</p>
 
 ### 🎬 Advanced Macro Recorder
 - **Visual Playback Canvas:** Render, drag, and modify recorded action paths dynamically.
