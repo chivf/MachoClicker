@@ -2,6 +2,11 @@
 
 MachoClicker is a modern, high-performance, and feature-rich desktop automation tool built with **Electron, React, and Vite**. Designed with a sleek dark-themed UI, glassmorphism accents, and rich micro-animations, it provides professional-grade clicker and macro sequencing tools for gamers, developers, and power users.
 
+<p align="center">
+  <img src="public/preview.png" alt="MachoClicker Interface Preview" width="600" />
+</p>
+
+
 ---
 
 ## 🚀 Features
